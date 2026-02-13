@@ -1,0 +1,1 @@
+Code for separating narrow and wide parts of polygons, and calculation of their geometry features. These include features calculated from the polygon geometry and from the relationships of geometries in polygon's neighbourhood.
